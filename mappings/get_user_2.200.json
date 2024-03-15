@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/qrtable/user/2"
+  },
+  "response": {
+    "status": 200,
+    "jsonBody": {
+      "id": 2,
+      "name": "oguz",
+      "email": "xxxyyx@gmail.com"
+    },
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}
